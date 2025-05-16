@@ -23,14 +23,6 @@ An IoT-based system that detects potential drowning incidents using ultrasonic a
 - The LCD shows the system status.
 - The alerts are also provided on smart dashboard
 
-## 📁 File Structure
-.
-├── drowning-detection.ino       # Arduino code
-├── README.md                    # Project overview
-├── LICENSE                      # MIT License
-└── .gitignore                   # Files to ignore
-
-
 ## 📝 License
 This project is licensed under the [MIT License](LICENSE).
 
