@@ -1,0 +1,28 @@
+# Arduino build files
+*.ino.*
+*.hex
+*.elf
+*.eep
+*.bin
+
+# macOS system file
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python cache (if you use any Python scripts)
+__pycache__/
+*.py[cod]
+
+# VS Code settings (optional)
+.vscode/
+
+# Log files
+*.log
+
+# Temporary files
+*.bak
+*.tmp
