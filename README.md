@@ -29,6 +29,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙋‍♀️ Author
 **Akshita Sondhi**  
 Student (ECE), IIIT-Naya Raipur  
-Enthusiastic about electronics and AI, and real-world applications of technology.
+Enthusiastic about electronics, AI, and real-world applications of technology.
 
 
